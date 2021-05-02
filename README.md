@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-<--![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)-->
+
