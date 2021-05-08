@@ -2,6 +2,8 @@
 
 Here are some ideas to get you started:
 
+blog：gujizhang.github.io
+
 - 🔭 I’m a student
 - ⚡ Fun fact: games & book& :heart: :dog:
 - 🌱 I’m currently learning Vue 
